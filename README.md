@@ -97,7 +97,7 @@ $ cd bh
 ```sh
 $ serverless deploy --{your-profile-name}
 ```
-15) Wait several minutes for your stack to deploy and watch the magic.
+17) Wait several minutes for your stack to deploy and watch the magic.
 
 ## Verification
 Post Deploy verification steps
